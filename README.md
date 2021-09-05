@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GabrielaAnjos
-- 👀 I’m interested in chatbot, Python and Java
+# 👋 Hi!! I’m @GabrielaAnjos
 - 🌱 I’m currently studying Systems Analysis and Development
 - 💞️ I believe I can help the world to be a better and more inclusive place
+-  Remember: **✨ you only know until you do ✨**
 
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
