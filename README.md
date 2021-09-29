@@ -1,5 +1,5 @@
 # 👋 Hi!! I’m @GabrielaAnjos
-- 🌱 I’m currently studying Systems Analysis and Development
+- 🌱 Systems Analysis and Development student
 - 💞️ I believe I can help the world to be a better and more inclusive place
 -  ✨ Java, C, Python ✨
 
