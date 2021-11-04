@@ -1,6 +1,6 @@
 # 👋 Hi!! I’m @GabrielaAnjos
 - 🌱 Systems Analysis and Development student
-- 💞️ I believe I can help the world to be a better and more inclusive place
+- 💞️ I believe that I can help the world to be a better and more inclusive place
 -  ✨ Java, C, Python ✨
 
 <div align="center">
