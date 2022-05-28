@@ -1,7 +1,6 @@
 # 👋 Hi!! I’m @GabrielaAnjos
 - 🌱 Systems Analysis and Development student
-- 💞️ I believe that I can help the world to be a better and more inclusive place
--  ✨ Java, C, Python ✨
+-  ✨ Python, C ✨
 
 <div align="center">
   <a href="https://github.com/GabrielaAnjos">
